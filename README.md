@@ -1,5 +1,5 @@
 # Axios-post-request-SQL
-Data from HTML Form sending with Axios POST to SQL Database
+Data from HTML Form sending with Axios POST to MySQL Database
 
 Project setup
 
